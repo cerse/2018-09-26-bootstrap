@@ -50,23 +50,29 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ###	13:30	Edinburgh RSE Community Bootstrap (Neil Chue Hong, Software Sustainability Institute)
 
-- Either moderated discussion (Neil / Andy to chair?) 
-  or 
-- Group tasks on suggested themes and activities 
-  (Andy / Neil / Mario / Sean coordinate)
+* Slides for this session ([pptx](2018-09-26-cerse-bootstrap.pptx))
 
-####  Suggested Themes / Activities:
+#### Group discussion on the following themes
+  1. Learning, improving and sharing skills
+  2. Finding out what others are doing / presenting what I’m doing
+  3. Cross-campus and cross-discipline network building
+  4. Growing our community / inclusion and support
+  5. Recognition, reward and recruitment
+  6. Making a difference 
 
-* Inclusion, diversity and support
-* Cross-campus and cross-discipline network building
-* 'Anchor'meetings to help build and sustain community identity, coherence and recognition across UoE and beyond; aim for community to become self-sustaining and governing
-* More frequent & focussed activities and events (e.g., lunch time mini- hacks, lightning talks, topic-specific workshops, invited guest talks, etc)
-* RSE support, training, recognition, reward, recruitment
-* Learning what otheres are doing / presenting what you're doing
-* Learning new techniques, skills, tools
-* Finding new collaborators
-* Working in interesting new techniques, skills, tools
-* Working on Edinburgh RSE community building
+#### Group discussion practicalities
+- Only 30 minutes!
+- Introductions (5 minutes)
+  - Name, group / department, organization 
+- Discuss the topic, noting ideas and barriers
+  - Highlight (15 minutes)
+    1. Potential activities and events that might address the theme
+    2. Roles and Responsibilities: how might you organize these activities?
+    3. Available resources that could be contributed to make things happen
+    4. Missing skills / experience / resources that are needed
+  - Prioritise (5 minutes)
+    - What’s the most exciting thing? What’s the easiest thing to do now?
+- Wrapup – anything you’ve missed? (5 minutes)
 
 
 ###	14:00	Coffee / Cake / Networking
