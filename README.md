@@ -50,7 +50,7 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ###	13:30	Edinburgh RSE Community Bootstrap (Neil Chue Hong, Software Sustainability Institute)
 
-* Slides for this session ([pptx](2018-09-26-cerse-bootstrap.pptx))
+* Slides for this session ([pptx](2018-09-26-cerse-discussion.pptx), [pdf](2018-09-26-cerse-discussion.pdf))
 
 #### Group discussion on the following themes
   1. Learning, improving and sharing skills
