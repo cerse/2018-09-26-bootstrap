@@ -20,6 +20,8 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Sean McGeever, Mario Antonioletti, Andy Turner, Neil Chue Hong). All reports will be reviewed by the organisers and kept confidential.  
+
 ##	Schedule
 
 ###	13:00	Welcome (Sean McGeever / Andy Turner)
