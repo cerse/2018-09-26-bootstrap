@@ -1,12 +1,24 @@
 # Edinburgh RSE community bootstrap meeting, 2018-09-26, Bayes Centre
 
-#	Purpose
+## Purpose
 
 Our primary goal is to invite active and interested RSEs to bootstrap and participate in a local community of practice
 
 ##	Venue, Date, Time
 
 G.03 Bayes Institute; 1-3pm, Wed 26th September 
+
+## Code of Conduct
+
+We expect all attendees at this meeting to abide by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). In summary, we encourage the following behaviour:
+
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
+
+Please see the link above for the full Code.
 
 ##	Schedule
 
