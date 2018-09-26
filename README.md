@@ -29,11 +29,11 @@ G.03 Bayes Institute; 1-3pm, Wed 26th September
 * RSE resources and related activities (e.g., Carpentries)
 * Community bootstrap exercise ...
 * Icebreaker (CarpentryCon style)
-https://en.wikipedia.org/wiki/Jean_Bartik
-https://en.wikipedia.org/wiki/Anita_Borg
-https://en.wikipedia.org/wiki/Shafi_Goldwasser
-https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)
-https://en.wikipedia.org/wiki/Grace_Hopper
+** [Jean Bartik] (https://en.wikipedia.org/wiki/Jean_Bartik)
+** [Anita Borg] (https://en.wikipedia.org/wiki/Anita_Borg)
+** [Margaret Hamilton] (https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist))
+** [Grace Hopper] (https://en.wikipedia.org/wiki/Grace_Hopper)
+** [Katherine Johnson] (https://en.wikipedia.org/wiki/Katherine_Johnson)
 
 
 ###	13:30	Edinburgh RSE Community Bootstrap (Neil Chue Hong, Software Sustainability Institute)
