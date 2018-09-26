@@ -23,11 +23,10 @@ G.03 Bayes Institute; 1-3pm, Wed 26th September
 ###	13:10	Research Software Engineers - Who / What / Why (Andy Turner, UK RSE Association)
 
 * RSE Roles & Activities
-* Context (UK RSE, Global Reach, Society)
-* Local / Regional RSE Groups (e.g., Soton, UCL, Manc) and individuals
+* Context: [UK RSE](https://rse.ac.uk/), [Global Reach](https://rse.ac.uk/community/international-rse-groups/), Society
+* [Local / Regional RSE Groups](https://rse.ac.uk/community/research-software-groups-rsgs/) (e.g., Soton, UCL, Manc) and individuals
 * RSE18 UoE attendees (including Chem / GeoS / ISG)
-* RSE resources and related activities (e.g., Carpentries)
-* Community bootstrap exercise ...
+* RSE resources and related activities: e.g., [Carpentries](https://carpentries.org/), [Our Coding Club](https://ourcodingclub.github.io/)
 * Icebreaker (CarpentryCon style)
   - [Jean Bartik](https://en.wikipedia.org/wiki/Jean_Bartik)
   - [Anita Borg](https://en.wikipedia.org/wiki/Anita_Borg)
@@ -46,23 +45,14 @@ G.03 Bayes Institute; 1-3pm, Wed 26th September
 ####  Suggested Themes / Activities:
 
 * Inclusion, diversity and support
-
-* 'Anchor'meetings to help build and sustain community identity, coherence and recognition across UoE and beyond; aim for community to become self-sustaining and governing
-
-* More frequent & focussed activities and events (e.g., lunch time mini- hacks, lightning talks, topic-specific workshops, invited guest talks, etc)
-
 * Cross-campus and cross-discipline network building
-
+* 'Anchor'meetings to help build and sustain community identity, coherence and recognition across UoE and beyond; aim for community to become self-sustaining and governing
+* More frequent & focussed activities and events (e.g., lunch time mini- hacks, lightning talks, topic-specific workshops, invited guest talks, etc)
 * RSE support, training, recognition, reward, recruitment
-
 * Learning what otheres are doing / presenting what you're doing
-
 * Learning new techniques, skills, tools
-
 * Finding new collaborators
-
 * Working in interesting new techniques, skills, tools
-
 * Working on Edinburgh RSE community building
 
 
@@ -75,11 +65,8 @@ a natural break ...
 ###	14:15	Bootstrap Outputs, Actions, Volunteer (Andy / Neil / Mario / Sean to summarise)
 
 * Activities and Events
-
 * Roles and Responsibilities
-
 * Funding and Logistics
-
 * Initial Community Roadmap
 
 
