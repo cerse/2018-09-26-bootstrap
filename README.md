@@ -10,8 +10,9 @@ G.03 Bayes Institute; 1-3pm, Wed 26th September
 
 ##	Schedule
 
-
 ###	13:00	Welcome (Sean McGeever / Andy Turner)
+
+* Presentation: [Welcome (pptx), Sean McGeever, School of Physics and Astronomy, University of Edinburgh](2018-09-26-cerse-bootstrap.pptx)
 
 * Introductions
 * Edinburgh Core Team (Andy Turner, Mario Antonioletti, Neil Chue Hong, Giacomo Peru)
@@ -20,7 +21,7 @@ G.03 Bayes Institute; 1-3pm, Wed 26th September
 
 ###	13:10	Research Software Engineers - Who / What / Why (Andy Turner, UK RSE Association)
 
-* [What's all this RSE stuff about? Andy Turner, EPCC](WhatRSE)
+* Presentation: [What's all this RSE stuff about? Andy Turner, EPCC](WhatRSE)
 * Context: [UK RSE](https://rse.ac.uk/), [Global Reach](https://rse.ac.uk/community/international-rse-groups/), Society
 * [Local / Regional RSE Groups](https://rse.ac.uk/community/research-software-groups-rsgs/) (e.g., Soton, UCL, Manc) and individuals
 * RSE18 UoE attendees (including Chem / GeoS / ISG)
