@@ -76,6 +76,60 @@ If someone violates the Code of Conduct during the event we ask that you report 
   - Bursaries for less experienced community members to travel to relevant events (e.g. RSE conference) that they 
   may struggle to find funding for.
 
+#### 5. Recognition, Reward and Recruitment (Facilitator: Sean)
+
+######  Key Points & Actions
+
+1. Most RSEs are normally unable to apply for grants in their own name, so are entirely dependent on PIs to fund their posts, assign their roles, etc.
+
+2. 'Supervisors expect papers' as the primary metric or currency for academic output. Software outputs rarely register as recognisable and rewardable outputs
+
+3. RSEs need a consistent and coherent framework for roles, posts and careers, including appropriate grades and jobs descriptions, explicitly supporting career development - ideally including access to well-promoted job adverts.
+
+4. Mentoring should be available for potential and current RSEs, to help guide and support their career development.
+
+5. META point: some of these points are already either being addressed (not yet fully solved, to be fair). But many RSEs, especially those working solo in a research group or unit, haven't been made aware of what is happening.
+
+ACTION: Ensure we point all attending and related RSEs to:
+
+- the UKRSE slack (specifically the #edinburgh and #jobs channels)
+- the UKRSE weekly jobs posting email list (weekly post to everyone@rse.ac.uk)
+
+###### Raw Notes
+
+(Rupert) [REF2020](http://www.ref.ac.uk/) Recognition - RSEs not normally refable on existing contracts - moving to different contracts - competing against academics
+
+(Rupert) Reward - salaries often much lower in academia than industry - so tradeoff between salary / conditions.
+
+(AndyT) RSE career security very difficult - short contracts - sawtooth profile very common.
+
+(Chris) We need to involve PIs in learning how to support RSEs          
+
+(AndyW) Did you have to make a choice between academic / service / support roles?
+
+(Richard) RSEs typically unable to apply for grants in own name
+
+(Chris) Shifted from grant to grant quite a lot; clear recognition of need, but 'grant jenga' often applies.
+
+(Erica) More academic role currently, but writing software is a personal preference - however, 'supervisors expect papers' 
+
+(Rupert) Some journals now expect software, e.g., the [Journal of Open Source Software - JOSS](https://joss.theoj.org/)
+
+(AndyW) Are there complications dealing with with open source, licensing, etc?
+
+(Rupert) DOIs often used solely for paper describing software - not for the software itself
+
+(AndyT) Issue of qualtiy of code; how do you present software for access / reuse?
+
+(Chris) Isn't [Zenodo](https://zenodo.org/) supposed to help with access and reuse?
+
+(AndyW) RSEs often at the mercy of PI selection, often based on poorly-chosen criteria (e.g., I need a particle physicist with experience of experiment x and who can do a bit of coding; rather than a competent RSE who can learn or translate the domain-specific data structures and algorithms into maintainable software).
+
+(Richard) But don't try to ape academic productivity metrics - e.g. release code with DOI but it's never cited
+
+(Chris) Need for mentorship - helping guide career development of RSEs from 'potential' to 'senior'
+(AndyW) Note existing targeted advertising for RSE vacancies - see ukrse weekly digest
+
 
 ##	Schedule
 
