@@ -24,6 +24,45 @@ If someone violates the Code of Conduct during the event we ask that you report 
 
 ## Outputs from group discussion activities
 
+### 3. Finding out what others are doing / presenting what I'm doing
+
+**Facilitator: Victoria Dishon**
+
+#### Summary of Discussion
+
+There is the desire to have regular meetings, approximately monthly, with the purpose of sharing and learning from each other. The consensus appeared to be 60minutes of sharing followed by 30 mins of discussion or networking.
+
+The talks should be held in different locations and at a variety of times throughout the week, Wednesday afternoon is an obvious choice, but having a fixed session excludes people who have commitments at specific times in the week from attending.
+
+The option for recording (with the presenters permission) and/or virtual attendance is desirable, particularly for people who either are not permitted to travel to events on a regular basis or where traveling is impractical for a short session.
+
+There is interest in more social events, breakfast meetings (for the early risers) or option to go to the pub after a later afternoon event for those that wish.
+
+It was suggested that there should be a core group to co-ordinate events overall, but that it should be an expectation of the community that throughout the year everyone contribute in some way, either as a member in a small team arranging the event or presenting. Events topics should be planned two ahead.
+
+Post event, the material from should be available for those that could not attend or to return to for reference. Suggestion that a website or blog could fulfil this purpose.
+
+Communications between meetings, lengthy discussion about Slack and a variety of other tools, kept returning to Slack as a medium for day to day conversations, tips, questions. Comments about getting the balance of this right, sometimes channels can become too noisy, other times too quiet.
+
+A mailing list was identified as the best way of informing the community about big announcements, publicising events and sharing information about external opportunities of general interest to the community.
+
+####  Post-it notes
+
+Formal V Informal sharing
+Lightning talks
+Recording lightening talks
+Slides and audio to be shared after the event
+Lightning talks 3-4 minutes - networking afterwards
+Monthly meetings - no more than 50 attendees - 60 minutes presentation/sharing, 30 mins networking
+Chance to Chat
+Social events
+Virtual attendance - enables those that cannot travel
+Small core group to coordinate - with small teams of volunteers to arrange events Annual bigger event
+Mailing lists - mixed feelings
+Mailing lists for announcements and event publicity
+Slack - can be challenging, too noisy/quiet
+Website with blogs / sharing resources
+
 ### 4. Growing our community / inclusion and support
 
 **Facilitator: Andy Turner**
@@ -76,9 +115,9 @@ If someone violates the Code of Conduct during the event we ask that you report 
   - Bursaries for less experienced community members to travel to relevant events (e.g. RSE conference) that they 
   may struggle to find funding for.
 
-#### 5. Recognition, Reward and Recruitment (Facilitator: Sean)
+### 5. Recognition, Reward and Recruitment (Facilitator: Sean)
 
-######  Key Points & Actions
+####  Key Points & Actions
 
 1. Most RSEs are normally unable to apply for grants in their own name, so are entirely dependent on PIs to fund their posts, assign their roles, etc.
 
@@ -95,7 +134,7 @@ ACTION: Ensure we point all attending and related RSEs to:
 - the UKRSE slack (specifically the #edinburgh and #jobs channels)
 - the UKRSE weekly jobs posting email list (weekly post to everyone@rse.ac.uk)
 
-###### Raw Notes
+#### Raw Notes
 
 (Rupert) [REF2020](http://www.ref.ac.uk/) Recognition - RSEs not normally refable on existing contracts - moving to different contracts - competing against academics
 
