@@ -48,20 +48,20 @@ A mailing list was identified as the best way of informing the community about b
 
 ####  Post-it notes
 
-Formal V Informal sharing
-Lightning talks
-Recording lightening talks
-Slides and audio to be shared after the event
-Lightning talks 3-4 minutes - networking afterwards
-Monthly meetings - no more than 50 attendees - 60 minutes presentation/sharing, 30 mins networking
-Chance to Chat
-Social events
-Virtual attendance - enables those that cannot travel
-Small core group to coordinate - with small teams of volunteers to arrange events Annual bigger event
-Mailing lists - mixed feelings
-Mailing lists for announcements and event publicity
-Slack - can be challenging, too noisy/quiet
-Website with blogs / sharing resources
+* Formal V Informal sharing
+* Lightning talks
+* Recording lightening talks
+* Slides and audio to be shared after the event
+* Lightning talks 3-4 minutes - networking afterwards
+* Monthly meetings - no more than 50 attendees - 60 minutes presentation/sharing, 30 mins networking
+* Chance to Chat
+* Social events
+* Virtual attendance - enables those that cannot travel
+* Small core group to coordinate - with small teams of volunteers to arrange events Annual bigger event
+* Mailing lists - mixed feelings
+* Mailing lists for announcements and event publicity
+* Slack - can be challenging, too noisy/quiet
+* Website with blogs / sharing resources
 
 ### 4. Growing our community / inclusion and support
 
@@ -115,7 +115,9 @@ Website with blogs / sharing resources
   - Bursaries for less experienced community members to travel to relevant events (e.g. RSE conference) that they 
   may struggle to find funding for.
 
-### 5. Recognition, Reward and Recruitment (Facilitator: Sean)
+### 5. Recognition, Reward and Recruitment
+
+*Facilitator: SeanMcGeever* 
 
 ####  Key Points & Actions
 
