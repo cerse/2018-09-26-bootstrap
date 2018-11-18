@@ -1,5 +1,12 @@
 # Edinburgh RSE community bootstrap meeting, 2018-09-26, Bayes Centre
 
+## Content
+* [Purpose](#purpose)
+* [Code of Conduct](#code-of-conduct)
+* [Outputs from group discussion activities](#outputs-from-group-discussion-activities)
+* [Schedule](#schedule)
+
+
 ## Purpose
 
 Our primary goal is to invite active and interested RSEs to bootstrap and participate in a local community of practice
