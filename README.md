@@ -23,6 +23,62 @@ Please see the link above for the full Code.
 If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Sean McGeever, Mario Antonioletti, Andy Turner, Neil Chue Hong). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Outputs from group discussion activities
+### 2. Cross-campus and cross-discipline network building
+
+**Facilitator: Mario Antonioletti**
+
+#### Summary of Discussion
+
+The group consisted of Mike S., Martin D., Eleni K., Hywel D.,
+Catrina C., Peter B., Geoff L., Oliver B., Chris W and Mario A.
+
+Each participant was given one or more postitnote and they
+wrote one or more ideas on it. These were then placed in
+the centre and we discussed on voting on them. Some of them
+were similar. We briefly discussed each and then voted on
+them. The top three group of ideas were:
+
+1. Create project showcases/success stories/examples of best practice.
+2. Form a subcommittee that will:
+   * Meet regularly (or maybe as a one off).
+   * Representatives to establish what is of interest to the community.
+   * Choose a topic for the month.
+3. Provide a match-making service for:
+   * mentoring.
+   * give courses for particular skill sets.
+   * provide skill based forums.
+   * generate a reverse open source look-up table (to find out who is
+     involved in open source projects and with what skills)
+
+####  Post-it notes
+
+Suggestions are ranked in order by group members. 
+
+* Collaborating on a project with a data science and HPC component and more
+* Directory of FOSS projects/applications being developed locally
+* Skills based forums/message boards
+* Various intro courses for different skill sets (introduce non-traditional
+  disciplines in)
+
+* Match making/mentoring
+* Expanding code clinis behond students
+* Help researchers write appropgriate papers
+
+* Project showcases/case studies/Best practice frameworks
+
+* Cross discipline topic of the month
+* Conference/evet with multiple tracks reflecting various backgrounds
+* Building crosss-discipnary teams/forum meetings relationship presenting
+  internal resesearch in other schools
+
+* Edinburgh is a huge presence, will domination be an issue?
+* Could industry and academic positions be more fluid?
+* (EPCC hat on) MSc project ideas in Data Science and HPC could
+  lead to collaborations
+* Lobbying - university, government(s), funders, punlishers
+* Combining approaches/benchmarking with:
+   * other regional RSE groups?
+   * other professional groupings (AMRMA, CILIP, etc)
 
 ### 3. Finding out what others are doing / presenting what I'm doing
 
