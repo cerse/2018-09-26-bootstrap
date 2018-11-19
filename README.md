@@ -75,7 +75,7 @@ Suggestions are ranked in order by group members.
 
 * Cross discipline topic of the month
 * Conference/evet with multiple tracks reflecting various backgrounds
-* Building crosss-discipnary teams/forum meetings relationship presenting
+* Building cross-disciplinary teams/forum meetings relationship presenting
   internal resesearch in other schools
 
 * Edinburgh is a huge presence, will domination be an issue?
