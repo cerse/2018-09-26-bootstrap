@@ -305,3 +305,5 @@ a natural break ...
 
 
 ###	15:00	Close & Tidy up
+
+Please refer to the [accessibility statement](https://cerse.github.io/AccessibilityStatement.html) for this web site.
